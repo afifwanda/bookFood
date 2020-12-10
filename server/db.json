@@ -99,21 +99,7 @@
       "gambar": "lontong-opor-ayam.jpg"
     }
   ],
-  "keranjangs": [
-    {
-      "jumlah_pemesanan": "2",
-      "keterangan": "-",
-      "products": {
-        "id": 2,
-        "kode": "K-02",
-        "nama": "Nasi Goreng Telur",
-        "harga": 14000,
-        "is_ready": true,
-        "gambar": "nasi-goreng-telor.jpg"
-      },
-      "id": 1
-    }
-  ],
+  "keranjangs": [],
   "pesanans": [
     {
       "nama": "Afif",
